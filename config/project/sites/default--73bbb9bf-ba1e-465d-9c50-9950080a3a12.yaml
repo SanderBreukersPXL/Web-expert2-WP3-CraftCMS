@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: Web-expert2-WP3-CraftCMS
+primary: true
+siteGroup: 5efe83f1-f1a4-40d8-a7a6-9bb423e8664a # Web-expert2-WP3-CraftCMS
+sortOrder: 1

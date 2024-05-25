@@ -1,0 +1,22 @@
+dateModified: 1716670335
+email:
+  fromEmail: sander.breukers@student.pxl.be
+  fromName: Web-expert2-WP3-CraftCMS
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    5efe83f1-f1a4-40d8-a7a6-9bb423e8664a: Web-expert2-WP3-CraftCMS # Web-expert2-WP3-CraftCMS
+    73bbb9bf-ba1e-465d-9c50-9950080a3a12: Web-expert2-WP3-CraftCMS # Web-expert2-WP3-CraftCMS
+system:
+  edition: solo
+  live: true
+  name: Web-expert2-WP3-CraftCMS
+  schemaVersion: 5.0.0.20
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
