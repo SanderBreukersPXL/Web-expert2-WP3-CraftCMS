@@ -2,3 +2,5 @@
 /.idea
 /vendor
 .DS_Store
+.env.backup
+config/license.key
